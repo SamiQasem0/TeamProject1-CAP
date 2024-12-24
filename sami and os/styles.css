@@ -345,6 +345,9 @@ nav ul li a:hover {
     margin-bottom: 2rem;
     border-radius: 8px;
 }
+.heroright {
+    text-align: right;
+}
 
 .hero h2 {
     font-size: 2.5em;
@@ -472,4 +475,7 @@ footer {
     color: white;
     border-radius: 8px;
     margin-top: 2rem;
+}
+.right-align {
+    text-align: right;
 }
